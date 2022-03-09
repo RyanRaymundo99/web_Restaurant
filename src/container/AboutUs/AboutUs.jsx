@@ -13,7 +13,7 @@ const AboutUs = () => (
     <div className='app__aboutus-content flex__center'>
       <div className='app__aboutus-content_about'>
         <h1 className='headtext__cormorant'>About us</h1>
-        <img src={images.spoon} alt="About spoon" className='spoon__img' />
+        <img src={images.spoon} alt="About spoon" className='spoon' />
         <p className='p__opensans'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus fugiat sequi iusto quia autem. Fugiat ducimus doloribus beatae, error expedita explicabo molestias tempore, eveniet sapiente corporis harum debitis delectus quibusdam.</p>
         <button type='buttton' className='custom__button'>know more</button>
       </div>
@@ -24,11 +24,11 @@ const AboutUs = () => (
 
       <div className='app__aboutus-content_history'>
         <h1 className='headtext__cormorant'>Our history</h1>
-        <img src={images.spoon} alt="About spoon" className='spoon__img' />
+        <img src={images.spoon} alt="About spoon" className='spoon' />
         <p className='p__opensans'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus fugiat sequi iusto quia autem. Fugiat ducimus doloribus beatae, error expedita explicabo molestias tempore, eveniet sapiente corporis harum debitis delectus quibusdam.</p>
         <button type='buttton' className='custom__button'>know more</button>
       </div>
-      
+
     </div>
   </div>
 );
