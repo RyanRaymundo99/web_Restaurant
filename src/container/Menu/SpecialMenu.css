@@ -75,6 +75,12 @@
 }
 
 @media screen and (max-width: 650px) {
+
+    .app__specialMenu-menu_img img {
+        width: 100%;
+        height: 450px;
+    }
+
     .app__specialMenu-menu_img {
         width: 100%;
     }

@@ -64,6 +64,11 @@
 }
 
 @media screen and (max-width: 900px) {
+
+    .app__aboutus-content_knife img {
+        height: 800px;
+    }
+
     .app__aboutus-content {
         flex-direction: column;
     }
@@ -74,6 +79,11 @@
 }
 
 @media screen and (max-width: 650px) {
+
+    .app__aboutus-content_knife img {
+        height: 600px;
+    }
+
     .app__aboutus-overlay img {
         width: 80%;
         height: 320px;
