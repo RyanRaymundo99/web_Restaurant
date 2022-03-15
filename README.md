@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# React.js + CSS3
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made with React.js and CSS3. It's basically a fancy looking restaurant page with multiple sections.
 
-## Available Scripts
+## 
 
 In the project directory, you can run:
 
