@@ -26,7 +26,7 @@ const Gallery = () => {
       <SubHeading title="instagram" />
       <h1 className='headtext__cormorant'>Photo Gallery</h1>
       <p className='p__opensans' style={{ color: '#AAA', marginTop: '2rem'}}> Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto maxime magni esse, quos saepe corporis eveniet. Dolores atque repellat id iure expedita molestias nemo vel, quis nam ad mollitia quibusdam! </p>
-      <button type='button' className='custom__button'>View more</button>
+      <button type='button' className='custom__button' style={{marginTop: '2rem'}}>View more</button>
     </div>
 
     <div className='app__gallery-images'>
