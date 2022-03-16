@@ -1,6 +1,7 @@
 # React.js + CSS3
 
-This project was made with React.js and CSS3. It's basically a fancy looking restaurant page with multiple sections.
+This project was made with React.js and CSS3. It's basically a fancy looking restaurant page with multiple sections. The UI design is made by IQONICDESIGN
+Link: https://ui8.net/iqonicdesign/products/gericht-restaurant-website-ui-in-figma
 
 ## Preview
 
