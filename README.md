@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/90113061/158494399-3058b276-d4ee-47af-
 ![Screenshot (56)](https://user-images.githubusercontent.com/90113061/158493645-fb7897f0-9ddf-4c73-9719-2815593323e3.png)
 
 
-### Responsive
+### Responsiveness test
 
 
 
