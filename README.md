@@ -27,5 +27,10 @@ https://user-images.githubusercontent.com/90113061/158469959-58ae518d-32e6-408f-
 3. Photo gallery
 4. Newsletter
 
-### Deployment
+### What did i learn ? 
+
+- React functional components and their reusability
+- React file and folder structure
+- Fundamentals of the CSS BEM Model
+- From soft and pleasant animations to complex gradients
 
